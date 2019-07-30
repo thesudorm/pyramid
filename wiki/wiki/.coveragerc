@@ -1,0 +1,3 @@
+[run]
+source = wiki
+omit = wiki/test*
